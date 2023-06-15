@@ -15,11 +15,10 @@ email: "nirdesh@civil.iitd.ac.in"
 first_name: Nirdesh Kumar Sharma
 highlight_name: true
 interests:
-
-- Remote Sensing
-- Machine Learning
+- Natural Hazards
+- Data Driven Methods
 - Deep Learning and Computer Vision
-- GIS
+- Geographical Information Systems
 - Land Surface Modelling
 
 

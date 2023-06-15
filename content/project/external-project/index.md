@@ -1,11 +1,27 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: https://example.org
+
+external_link: 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
-tags:
-- Demo
-title: External Project
+  caption: 
+  focal_point: 
+summary: 
+tags: 
+- Old
+title: DAAD-KOSPIE scholarship
+
+date: "2019-06-27T00:00:00Z"
+external_link: ""
+image:
+  caption: 
+  focal_point:
+
+summary: I have received the DAAD-KOSPIE scholarship
+tags: 
+- Old
+title: DAAD-KOSPIE
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
+I have received the presitigious SERB Overseas doctoral fellowship. I will be working towards developing India's first Landslide Early Warning System using a combination of machine learning and Land Surface Models. 

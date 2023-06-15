@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Nirdesh Kumar Sharma</title>
+    <link>https://nirdeshksharma.gihub.io/project/</link>
+      <atom:link href="https://nirdeshksharma.gihub.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nirdeshksharma.gihub.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://nirdeshksharma.gihub.io/project/</link>
+    </image>
+    
+    <item>
+      <title>SERB OVDF at University of Alberta</title>
+      <link>https://nirdeshksharma.gihub.io/project/example/</link>
+      <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nirdeshksharma.gihub.io/project/example/</guid>
+      <description>&lt;p&gt;I have received the presitigious SERB Overseas doctoral fellowship. I will be working towards developing India&amp;rsquo;s first Landslide Early Warning System using a combination of machine learning and Land Surface Models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://nirdeshksharma.gihub.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://nirdeshksharma.gihub.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

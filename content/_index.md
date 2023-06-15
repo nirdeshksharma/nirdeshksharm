@@ -13,7 +13,7 @@ sections:
     - description: 
       icon: satellite
       icon_pack: fa
-      name: Remote sensing
+      name: Remote Sensing
     - description: 
       icon: python
       icon_pack: fab
@@ -26,6 +26,10 @@ sections:
       icon: gear
       icon_pack: fa
       name: Google Earth Engine
+    - description: 
+      icon: image
+      icon_pack: fa
+      name: Data Visualization
     - description: 
       icon: water
       icon_pack: fa
@@ -51,7 +55,7 @@ sections:
     order: desc
     subtitle: ""
     text: ""
-    title: Recent Posts
+    title: Blog
   design:
     columns: "2"
     view: compact
@@ -61,15 +65,15 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Latest
+      tag: Latest 
+    - name: Old 
+      tag: Old 
     default_button_index: 0
     filters:
       folders:
       - project
-    title: Projects
+    title: News
   design:
     columns: "1"
     flip_alt_rows: false
@@ -77,9 +81,10 @@ sections:
   id: projects
 
 - block: collection
+  id: featured
   content:
     filters:
-      featured_only: false
+      featured_only: true
       folders:
       - publication
     title: Journal Publications
@@ -87,6 +92,7 @@ sections:
     columns: "2"
     view: card
   id: featured
+  
 - block: collection
   content:
     filters:
@@ -97,7 +103,7 @@ sections:
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
-    title: Confrence Publications
+    title: Conference Publications
   design:
     columns: "2"
     view: citation
